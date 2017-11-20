@@ -1,4 +1,4 @@
-## This first line will likely take a few seconds. Be patient!
+## This  line will take a little time to load
 if(!exists("NEI")){
   NEI <- readRDS("./data/summarySCC_PM25.rds")
 }
